@@ -22,21 +22,21 @@ public class PhoneController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Fire1") && up == false)
-        {
-            up = true;
-            print("mousewheeled");
-            transform.position = new Vector3(startingPosition.x, ypos, startingPosition.z);
-            return;
-        }
-        if (Input.GetButtonDown("Fire1") && up == true)
-        {
-            up = false;
-            transform.position = startingPosition;
-            print("phone going down");
-            return;
+        //if (Input.GetButtonDown("Fire1") && up == false)
+        //{
+        //    up = true;
+        //    print("mousewheeled");
+        //    transform.position = new Vector3(startingPosition.x, ypos, startingPosition.z);
+        //    return;
+        //}
+        //if (Input.GetButtonDown("Fire1") && up == true)
+        //{
+        //    up = false;
+        //    transform.position = startingPosition;
+        //    print("phone going down");
+        //    return;
 
-            }
+        //    }
 
 
     }
