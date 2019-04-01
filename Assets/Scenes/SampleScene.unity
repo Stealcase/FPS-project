@@ -4014,7 +4014,7 @@ PrefabInstance:
     - target: {fileID: 7906694189851130814, guid: 2cf71bc16b5e408499ed4e409b25b346,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 54.54
+      value: 39.45
       objectReference: {fileID: 0}
     - target: {fileID: 7906694189851130814, guid: 2cf71bc16b5e408499ed4e409b25b346,
         type: 3}
@@ -7137,7 +7137,7 @@ MonoBehaviour:
     terrain: {fileID: 0}
     terrainHash: 0
     rendererBounds:
-      m_Center: {x: 54.54, y: 32.8, z: 79.51}
+      m_Center: {x: 39.45, y: 32.8, z: 79.51}
       m_Extent: {x: 0.1, y: 2.5, z: 0.1}
     lightBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -7169,7 +7169,7 @@ MonoBehaviour:
     terrain: {fileID: 0}
     terrainHash: 0
     rendererBounds:
-      m_Center: {x: 54.511272, y: 35.182, z: 79.98887}
+      m_Center: {x: 39.421272, y: 35.182, z: 79.98887}
       m_Extent: {x: 0.1252769, y: 0.125, z: 0.25013834}
     lightBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -7522,7 +7522,7 @@ MonoBehaviour:
     terrain: {fileID: 0}
     terrainHash: 0
     rendererBounds:
-      m_Center: {x: 54.54, y: 32.8, z: 79.51}
+      m_Center: {x: 39.45, y: 32.8, z: 79.51}
       m_Extent: {x: 0.1, y: 2.5, z: 0.1}
     lightBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -7554,7 +7554,7 @@ MonoBehaviour:
     terrain: {fileID: 0}
     terrainHash: 0
     rendererBounds:
-      m_Center: {x: 54.511272, y: 35.182, z: 79.98887}
+      m_Center: {x: 39.421272, y: 35.182, z: 79.98887}
       m_Extent: {x: 0.1252769, y: 0.125, z: 0.25013834}
     lightBounds:
       m_Center: {x: 0, y: 0, z: 0}
@@ -7773,11 +7773,11 @@ MonoBehaviour:
   shadowLights: []
   shadowCasters: []
   totalBounds:
-    m_Center: {x: 30.097996, y: 32.803497, z: 79.82451}
-    m_Extent: {x: 24.547003, y: 2.508502, z: 0.419505}
+    m_Center: {x: 22.552998, y: 32.803497, z: 79.82451}
+    m_Extent: {x: 17.002005, y: 2.508502, z: 0.419505}
   renderBounds:
-    m_Center: {x: 30.097996, y: 32.803497, z: 79.82451}
-    m_Extent: {x: 24.542004, y: 2.503502, z: 0.414505}
+    m_Center: {x: 22.552998, y: 32.803497, z: 79.82451}
+    m_Extent: {x: 16.997005, y: 2.503502, z: 0.414505}
   lightBounds:
     m_Center: {x: 30.22145, y: 30.91, z: 79.825005}
     m_Extent: {x: 33.909058, y: 3.9500008, z: 9.494057}
@@ -7794,8 +7794,8 @@ MonoBehaviour:
   ExtraBounds: 0.01
   OverrideBounds: 0
   BoundsOverride:
-    m_Center: {x: 30.097996, y: 32.803497, z: 79.82451}
-    m_Extent: {x: 24.547003, y: 2.508502, z: 0.419505}
+    m_Center: {x: 22.552998, y: 32.803497, z: 79.82451}
+    m_Extent: {x: 17.002005, y: 2.508502, z: 0.419505}
   DirShadowCaster: {fileID: 0}
   DirShadowDistance: 100
   ChildCulling: 0
